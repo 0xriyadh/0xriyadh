@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadihassanriyadh&label=Profile%20views&color=0e75b6&style=flat" alt="mahadihassanriyadh" /> </p>
 
-<h3>- Reach me At **mahadihassanriyadh1@gmail.com**</h3>
+<h3>- Reach me At<a href="mailto: mahadihassanriyadh1@gmail.com"   target="_blank">mahadihassanriyadh1@gmail.com</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
