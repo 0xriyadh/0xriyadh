@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/R25x16G/Untitled-design.png" alt="mahadihassanriyadhprofile" width="40" /></a>
+<a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/267H3Jw/Untitled-design-1.png" alt="mahadihassanriyadhprofile" width="40" /></a>
 <a href="https://instagram.com/mahadihassanriyadh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahadihassanriyadh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/iamriyadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamriyadh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/0ymTr8k/Untitled-design-2.png" alt="iamriyadh" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
