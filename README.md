@@ -5,7 +5,7 @@
 
 <h3>- Reach me At <a href="mailto: mahadihassanriyadh1@gmail.com"   target="_blank">mahadihassanriyadh1@gmail.com</a></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/dBzTLDQ/Untitled-design-8.png" alt="mahadihassanriyadhprofile" width="100" /></a>
 <a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/rHh6SX8/Untitled-design-54.png" alt="mahadihassanriyadhprofile" width="100" /></a>
