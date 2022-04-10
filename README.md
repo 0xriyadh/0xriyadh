@@ -8,10 +8,9 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/dBzTLDQ/Untitled-design-8.png" alt="mahadihassanriyadhprofile" width="100" /></a>
-<a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/rHh6SX8/Untitled-design-54.png" alt="mahadihassanriyadhprofile" width="100" /></a>
-<a href="https://instagram.com/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/rHh6SX8/Untitled-design-54.png" alt="mahadihassanriyadh" width="100" /></a>
-<a href="https://codeforces.com/profile/iamriyadh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="iamriyadh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/0ymTr8k/Untitled-design-2.png" alt="iamriyadh" width="40" /></a>
+<a href="https://instagram.com/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/rHh6SX8/Untitled-design-54.png" alt="mahadihassanriyadhprofile" width="100" /></a>
+<a href="https://codeforces.com/profile/iamriyadh" target="blank"><img align="center" src="https://i.ibb.co/vHp6gw7/Untitled-design-55.png" alt="mahadihassanriyadhprofile" width="100" /></a>
+<a href="https://www.linkedin.com/in/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/S3RsBKx/Untitled-design-56.png" alt="mahadihassanriyadhprofile" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
