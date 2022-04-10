@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahadihassanriyadhprofile)
 <a href="https://fb.com/mahadihassanriyadhprofile" target="blank"><img align="center" src="https://i.ibb.co/dBzTLDQ/Untitled-design-8.png" alt="mahadihassanriyadhprofile" width="100" /></a>
 <a href="https://instagram.com/mahadihassanriyadh/" target="blank"><img align="center" src="https://i.ibb.co/rHh6SX8/Untitled-design-54.png" alt="mahadihassanriyadhprofile" width="100" /></a>
 <a href="https://codeforces.com/profile/iamriyadh" target="blank"><img align="center" src="https://i.ibb.co/vHp6gw7/Untitled-design-55.png" alt="mahadihassanriyadhprofile" width="100" /></a>
