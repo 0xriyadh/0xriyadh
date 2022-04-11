@@ -1,6 +1,6 @@
 # About Me :
 I'm a young entrepreneur and a web developer.
-I'm currently working on the MERN stack.
+I'm currently working with the MERN stack.
 
 ## Reach me at - mahadihassanriyadh1@gmail.com
 
