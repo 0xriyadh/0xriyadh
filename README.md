@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 I'm a young entrepreneur and a web developer.
 I'm currently working on the MERN stack.
 
