@@ -1,8 +1,8 @@
 # About Me :
-* I'm a young entrepreneur and a web developer.
-* I'm currently working with the MERN stack.
-* Styding in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/)
-<br>
+- I'm a young entrepreneur and a web developer.
+- I'm currently working with the MERN stack.
+- Styding in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/)
+
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8dalmcc413x0np9ir8th.gif)
 
 
