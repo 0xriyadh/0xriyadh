@@ -2,13 +2,10 @@
 * I'm a young entrepreneur and a web developer.
 * I'm currently working with the MERN stack.
 * Styding in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8dalmcc413x0np9ir8th.gif)
 
-<br>
-![coding](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
 ## Reach me at - mahadihassanriyadh1@gmail.com
-
-
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahadihassanriyadhprofile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahadihassanriyadh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahadihassanriyadh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mahadi-hassan-riyadh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_am_riyadh) 
