@@ -1,6 +1,7 @@
 # About Me :
-I'm a young entrepreneur and a web developer.
-I'm currently working with the MERN stack.
+* I'm a young entrepreneur and a web developer.
+* I'm currently working with the MERN stack.
+* Styding in Computer Science and Engineering at BRAC University
 
 ## Reach me at - mahadihassanriyadh1@gmail.com
 
