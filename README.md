@@ -3,6 +3,9 @@
 * I'm currently working with the MERN stack.
 * Styding in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/)
 
+<br>
+![coding](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+
 ## Reach me at - mahadihassanriyadh1@gmail.com
 
 
