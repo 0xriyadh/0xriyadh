@@ -3,7 +3,7 @@
 - I'm currently working with the MERN stack.
 - Styding in Computer Science and Engineering at [BRAC University](https://www.bracu.ac.bd/)
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![@mahadihassanriyadh's Holopin board](https://holopin.io/api/user/board?user=mahadihassanriyadh)](https://holopin.io/@mahadihassanriyadh)
 
 
 ## Reach me at - mahadihassanriyadh1@gmail.com
