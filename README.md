@@ -1,5 +1,5 @@
 # About Me :
-- Young Entrepreneur and Junior Full Stack Web Developer.
+- Young Entrepreneur and Full Stack Web Developer.
 - I'm currently working with the MERN stack.
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
