@@ -1,6 +1,7 @@
 # About Me :
-- Young Entrepreneur and Full Stack Web Developer.
-- I'm currently working with the MERN stack.
+- Software Engineer
+- I'm most confident in the JS Ecosystem.
+- Also I am also a part-time Blockchain and HCI researcher.
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
 [![@mahadihassanriyadh's Holopin board](https://holopin.io/api/user/board?user=mahadihassanriyadh)](https://holopin.io/@mahadihassanriyadh)
