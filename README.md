@@ -1,6 +1,6 @@
 # About Me :
-- Software Engineer
-- I'm most confident in the JS Ecosystem.
+- Software Engineer.
+- JavaScript, Python are my goto.
 - Undergrad Blockchain and HCI researcher.
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
