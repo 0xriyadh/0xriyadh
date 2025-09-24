@@ -1,7 +1,6 @@
 # About Me :
 - Software Engineer.
 - JavaScript, Python are my goto.
-- Undergrad Blockchain and HCI researcher.
 - Styding in Computer Science at [BRAC University](https://www.bracu.ac.bd/)
 
 [![@mahadihassanriyadh's Holopin board](https://holopin.io/api/user/board?user=mahadihassanriyadh)](https://holopin.io/@mahadihassanriyadh)
