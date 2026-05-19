@@ -1,6 +1,6 @@
 ### Riyadh
 
-Software engineer at [NiaHealth](https://niahealth.co), building preventative healthcare for Canadians 🇨🇦
+Product Engineer at [NiaHealth](https://niahealth.co), building preventative healthcare for Canadians 🇨🇦
 
 CS @ [BRAC University](https://www.bracu.ac.bd/).
 
