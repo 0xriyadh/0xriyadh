@@ -4,4 +4,4 @@ Product Engineer at [NiaHealth](https://niahealth.co), building preventative hea
 
 CS @ [BRAC University](https://www.bracu.ac.bd/).
 
-[linkedin](https://linkedin.com/in/0xriyadh) · [x](https://x.com/0xriyadh) · [email](mailto:riyadh@niahealth.co)
+[portfolio](https://0xriyadh.com/) · [linkedin](https://linkedin.com/in/0xriyadh) · [x](https://x.com/0xriyadh) · [email](mailto:riyadh@niahealth.co)
